@@ -7,9 +7,7 @@
 
 ##💻 Tech Stack:
 
-[![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) 
-
-[![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffd54f)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffd54f)](https://www.python.org/)
 
 ##📊 GitHub Stats:
 
