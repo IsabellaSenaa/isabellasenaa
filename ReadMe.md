@@ -6,11 +6,13 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isabellasena.tech@gmail.com)
 
 ##💻 Tech Stack:
+
 [![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) 
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffd54f)](https://www.python.org/)
 
 ##📊 GitHub Stats:
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsabellaSenaa&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=IsabellaSenaa&theme=dark&hide_border=true)
