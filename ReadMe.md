@@ -11,9 +11,7 @@
 
 ##📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsabellaSenaa&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=IsabellaSenaa&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsabellaSenaa&theme=dark&hide_border=true&include_all_commits=false&count_private=false) ![GitHub Streak](https://streak-stats.demolab.com?user=IsabellaSenaa&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaSenaa&theme=dark&hide_border=true&layout=compact)
 
 ---
